@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "hitwise",
+    "captured_at": "2026-10-11T190346",
+    "source_url": "http://www.hitwise.com/",
+    "source_type": "Website",
+    "file": "hitwise-2026-10-11T190346.png",
+    "bytes": 40835,
+    "capture": "playwright-local"
+  }
+]
